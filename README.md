@@ -10,6 +10,7 @@
 |[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)| |
 |[Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)| |
 
+
 | Probability | Done |
 | ----------- | ---- |
 |[Introduction to Probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm)| :o: |
@@ -19,12 +20,14 @@
 |[Probability Course](https://www.probabilitycourse.com/)| |
 |[Couplings and Monte Carlo](https://sites.google.com/site/pierrejacob/cmclectures)| |
 
+
 | Algorithms | Done |
 | ---------- | ---- |
 |[Randomized Algorithms](https://www.youtube.com/playlist?list=PLwdnzlV3ogoVOBjwmNLnTN8fTWHy3wNOq)| |
 |[Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)| |
 |[Advanced Optimization and Randomized Algorithms](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d), [Recitations](https://www.youtube.com/playlist?list=PLjTcdlvIS6cj73EbnBdr6sz7_KEw1Evzp)| |
 |[Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)| |
+
 
 | ML | Done |
 | -- | ---- |
@@ -43,10 +46,18 @@
 |[The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/index.htm)| |
 |[Analyses of Deep Learning](https://stats385.github.io/)| |
 
+
 | Games Theory | Done |
 | ------------ | ---- |
 |[Game Theory, Polak](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)| |
 |[Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html)| |
+
+
+| Control | Done |
+| ------- | ---- |
+|[Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)| |
+|[Non-Linear Dynamics and Chaos](https://www.youtube.com/playlist?list=PL_onPhFCkVQgE_zizXouYPiuaLxQ8cu5O)| |
+
 
 | Computers | Done |
 | --------- | ---- |
