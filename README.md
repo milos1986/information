@@ -33,18 +33,18 @@
 | -- | ---- |
 |[Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)| |
 |[Neural Networks class, Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)| |
+|[Neural Networks for Machine Learning, Hinton](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)| |
+|[Analyses of Deep Learning](https://stats385.github.io/)| |
 |[Statistical Learning Theory and Applications, MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)| |
 |[Statistical Machine Learning, CMU](https://www.youtube.com/playlist?list=PLJ47vb5aNkOCHTFVNWTjCCnD6HLD2IQXL)| |
 |[Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)| |
-|[Neural Networks for Machine Learning, Hinton](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)| |
-|[Causality](https://www.youtube.com/playlist?list=PL_onPhFCkVQimvhuSAFrC8VWLEyNygQR5)| |
 |[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)| |
 |[Statistical Rethinking](https://github.com/rmcelreath/statrethinking_winter2019)| |
-|[ProbAI](https://www.youtube.com/playlist?list=PLRy-VW__9hV8s--JkHXZvnd26KgjRP2ik)| |
 |[Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)| |
+|[ProbAI](https://www.youtube.com/playlist?list=PLRy-VW__9hV8s--JkHXZvnd26KgjRP2ik)| |
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)| |
+|[Causality](https://www.youtube.com/playlist?list=PL_onPhFCkVQimvhuSAFrC8VWLEyNygQR5)| |
 |[The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/index.htm)| |
-|[Analyses of Deep Learning](https://stats385.github.io/)| |
 
 
 | Games Theory | Done |
@@ -68,4 +68,7 @@
 |[Full Stack DL](https://fullstackdeeplearning.com/)| |
 
 More:
+
 [DL Drizzle](https://github.com/kmario23/deep-learning-drizzle)
+
+[Connected Papers](https://www.connectedpapers.com/)
