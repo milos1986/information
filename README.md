@@ -19,6 +19,7 @@
 |[Probability Theory: The Logic Of Science](http://www-biba.inrialpes.fr/Jaynes/prob.html)| |
 |[Probability Course](https://www.probabilitycourse.com/)| |
 |[Couplings and Monte Carlo](https://sites.google.com/site/pierrejacob/cmclectures)| |
+|[Advances in Applied Probability](https://www.youtube.com/playlist?list=PL04QVxpjcnjg_94pKWf8WHFUCdjVAUHp3)| |
 
 
 | Algorithms | Done |
