@@ -3,7 +3,7 @@
 | Math | Done |
 | ---- | ---- |
 |[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)| :o: |
-|[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)| |
+|[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)| |
 |[Convex Optimization, Bubeck](https://www.youtube.com/playlist?list=PLAPSKVSdi0oZPbS-UD_kwT4ePZQx_CiME)| |
 |[Convex Optimization, Boyd](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)| |
 |[Modern Algorithmic Optimization](https://www.youtube.com/playlist?list=PLEqoHzpnmTfAoUDqnmMly-KgyJ6ZM_axf)| |
@@ -36,6 +36,7 @@
 |[Neural Networks class, Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)| |
 |[Neural Networks for Machine Learning, Hinton](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)| |
 |[Analyses of Deep Learning](https://stats385.github.io/)| |
+|[Dive into Deep Learning](https://d2l.ai/)| |
 |[Statistical Learning Theory and Applications, MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)| |
 |[Statistical Machine Learning, CMU](https://www.youtube.com/playlist?list=PLJ47vb5aNkOCHTFVNWTjCCnD6HLD2IQXL)| |
 |[Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)| |
@@ -52,6 +53,7 @@
 | ------------ | ---- |
 |[Game Theory, Polak](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)| |
 |[Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html)| |
+|[Game Theory Online, Coursera](http://www.game-theory-class.org/)| |
 
 
 | Control | Done |
@@ -67,6 +69,7 @@
 |[RegexOne](https://regexone.com/)| |
 |[Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)| |
 |[Full Stack DL](https://fullstackdeeplearning.com/)| |
+|[Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)| |
 
 More:
 
