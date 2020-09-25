@@ -47,11 +47,12 @@
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)| |
 |[Causality](https://www.youtube.com/playlist?list=PL_onPhFCkVQimvhuSAFrC8VWLEyNygQR5)| |
 |[The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/index.htm)| |
+|[Algorithms and Uncertainty Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre13oPPxPVXRBWMyTS3ul1y2A)| |
 
 
 | Games Theory | Done |
 | ------------ | ---- |
-|[Game Theory, Polak](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)| |
+|[Game Theory, Polak](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)| :o: |
 |[Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html)| |
 |[Game Theory Online, Coursera](http://www.game-theory-class.org/)| |
 
@@ -70,6 +71,7 @@
 |[Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)| |
 |[Full Stack DL](https://fullstackdeeplearning.com/)| |
 |[Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)| |
+|[Cryptocurrency Engineering and Design](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/index.htm)| |
 
 More:
 
