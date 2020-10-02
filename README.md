@@ -6,6 +6,7 @@
 |[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)| |
 |[Convex Optimization, Boyd](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)| |
 |[Modern Algorithmic Optimization, Nesterov](https://www.youtube.com/playlist?list=PLEqoHzpnmTfAoUDqnmMly-KgyJ6ZM_axf)| |
+|[Advanced Optimization and Randomized Algorithms](https://www.youtube.com/channel/UCoYvVAiH3M5uvzhcaYajEtg/playlists)| |
 |[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)| |
 |[Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)| |
 
@@ -22,7 +23,6 @@
 | Algorithms | Done |
 | ---------- | ---- |
 |[Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)| |
-|[Advanced Optimization and Randomized Algorithms](https://www.youtube.com/channel/UCoYvVAiH3M5uvzhcaYajEtg/playlists)| |
 |[Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)| |
 
 
@@ -54,6 +54,10 @@
 | ------- | ---- |
 |[Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)| |
 |[Non-Linear Dynamics and Chaos](https://www.youtube.com/playlist?list=PL_onPhFCkVQgE_zizXouYPiuaLxQ8cu5O)| |
+
+| Biology | Done |
+| ------- | ---- |
+|[Getting up to Speed in Biology](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/)| |
 
 
 | Computers | Done |
