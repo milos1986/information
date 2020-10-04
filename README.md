@@ -31,7 +31,7 @@
 |[Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)| |
 |[Neural Networks class, Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)| |
 |[Neural Networks for Machine Learning, Hinton](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)| |
-|Statistical Machine Learning, CMU [2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r), [2016](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE), [2017](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)| |
+|Statistical Machine Learning, CMU, [2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r), [2016](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE), [2017](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)| |
 |[Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)| |
 |[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)| |
 |[Statistical Rethinking](https://github.com/rmcelreath/statrethinking_winter2019)| |
@@ -46,8 +46,8 @@
 | Games Theory | Done |
 | ------------ | ---- |
 |[Game Theory, Polak](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)| :o: |
-|[Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html)| |
 |[Game Theory Online, Coursera](http://www.game-theory-class.org/)| |
+|[Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html)| |
 
 
 | Control | Done |
