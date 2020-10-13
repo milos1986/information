@@ -28,19 +28,18 @@
 
 | ML | Done |
 | -- | ---- |
+|[The Analytics Edge](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq)| |
+|[Scalable Machine Learning](http://alex.smola.org/teaching/berkeley2012/index.html)| |
+|[Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337)| |
 |[Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)| |
 |[Neural Networks class, Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)| |
-|[Neural Networks for Machine Learning, Hinton](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)| |
-|Statistical Machine Learning, CMU, [2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r), [2016](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE), [2017](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)| |
 |[Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)| |
-|[Scalable Machine Learning](http://alex.smola.org/teaching/berkeley2012/index.html)| |
+|Statistical Machine Learning, CMU, [2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r), [2016](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE), [2017](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)| |
 |[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)| |
 |[Statistical Rethinking](https://github.com/rmcelreath/statrethinking_winter2019)| |
 |[Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)| |
 |[ProbAI](https://www.youtube.com/playlist?list=PLRy-VW__9hV8s--JkHXZvnd26KgjRP2ik)| |
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)| |
-|[Causality](https://www.youtube.com/playlist?list=PL_onPhFCkVQimvhuSAFrC8VWLEyNygQR5)| |
-|[The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/index.htm)| |
 |[Algorithms and Uncertainty Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre13oPPxPVXRBWMyTS3ul1y2A)| |
 
 
@@ -48,7 +47,6 @@
 | ------------ | ---- |
 |[Game Theory, Polak](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)| :o: |
 |[Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html)| |
-|[Frontiers in Mechanism Design](http://timroughgarden.org/w14/w14.html)| |
 
 
 | Control | Done |
@@ -73,8 +71,12 @@
 
 More:
 
-[DL Drizzle](https://github.com/kmario23/deep-learning-drizzle)
+* [DL Drizzle](https://github.com/kmario23/deep-learning-drizzle)
 
-[Connected Papers](https://www.connectedpapers.com/)
+* [Connected Papers](https://www.connectedpapers.com/)
 
-[cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+* [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+
+* [Bob Trenwith channel](https://www.youtube.com/channel/UCpviBv-De2_oeuSU_b968BQ)
+
+* [MITmat](https://github.com/mitmath)
