@@ -6,7 +6,6 @@
 |[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)| |
 |[Convex Optimization, Boyd](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)| |
 |[Modern Algorithmic Optimization, Nesterov](https://www.youtube.com/playlist?list=PLEqoHzpnmTfAoUDqnmMly-KgyJ6ZM_axf)| |
-|[Advanced Optimization and Randomized Algorithms](https://www.youtube.com/channel/UCoYvVAiH3M5uvzhcaYajEtg/playlists)| |
 |[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)| |
 |[Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)| |
 
@@ -14,6 +13,7 @@
 | Probability | Done |
 | ----------- | ---- |
 |[Introduction to Probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm)| :o: |
+|[Discrete Stochastic Processes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011)| |
 |[Probability Theory: The Logic Of Science](http://www-biba.inrialpes.fr/Jaynes/prob.html)| |
 |[Probability Course](https://www.probabilitycourse.com/)| |
 |[Couplings and Monte Carlo](https://sites.google.com/site/pierrejacob/cmclectures)| |
@@ -24,6 +24,7 @@
 | ---------- | ---- |
 |[Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)| |
 |[Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)| |
+|[Advanced Algorithms](http://people.seas.harvard.edu/~cs224/fall14/lec.html)| |
 
 
 | ML | Done |
@@ -41,6 +42,7 @@
 |[ProbAI](https://www.youtube.com/playlist?list=PLRy-VW__9hV8s--JkHXZvnd26KgjRP2ik)| |
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)| |
 |[Algorithms and Uncertainty Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre13oPPxPVXRBWMyTS3ul1y2A)| |
+|[Algorithms for Big Data](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html)| |
 
 
 | Games Theory | Done |
@@ -79,4 +81,6 @@ More:
 
 * [Bob Trenwith channel](https://www.youtube.com/channel/UCpviBv-De2_oeuSU_b968BQ)
 
-* [MITmat](https://github.com/mitmath)
+* [MITmath](https://github.com/mitmath)
+
+* [MITOpenCourseWare](https://ocw.mit.edu/index.htm)
