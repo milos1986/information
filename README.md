@@ -8,6 +8,7 @@
 |[Modern Algorithmic Optimization, Nesterov](https://www.youtube.com/playlist?list=PLEqoHzpnmTfAoUDqnmMly-KgyJ6ZM_axf)| |
 |[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)| |
 |[Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)| |
+|[Functional Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)| |
 
 
 | Probability | Done |
@@ -84,3 +85,5 @@ More:
 * [MITmath](https://github.com/mitmath)
 
 * [MITOpenCourseWare](https://ocw.mit.edu/index.htm)
+
+* [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)
