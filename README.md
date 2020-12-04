@@ -4,19 +4,20 @@
 | ---- | ---- |
 |[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)| :o: |
 |[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)| |
-|[Convex Optimization, Boyd](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)| |
-|[Modern Algorithmic Optimization, Nesterov](https://www.youtube.com/playlist?list=PLEqoHzpnmTfAoUDqnmMly-KgyJ6ZM_axf)| |
+|[Logic and Computation](https://www.youtube.com/playlist?list=PLPW2keNyw-utXOOzLR-Wp1p0eE5LEtv3N)| |
+|[Convex Optimization](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)| |
 |[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)| |
 |[Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)| |
 |[Functional Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)| |
+|[Fuzzy Logic](https://www.youtube.com/playlist?list=PLhdVEDm7SZ-Ph7E3bYW89UbjD6zkW-vbf)| |
 
 
 | Probability | Done |
 | ----------- | ---- |
 |[Introduction to Probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm)| :o: |
-|[Discrete Stochastic Processes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011)| |
 |[Probability Theory: The Logic Of Science](http://www-biba.inrialpes.fr/Jaynes/prob.html)| |
 |[Probability Course](https://www.probabilitycourse.com/)| |
+|[randomservices](https://www.randomservices.org/random/index.html)| |
 |[Couplings and Monte Carlo](https://sites.google.com/site/pierrejacob/cmclectures)| |
 |[Advances in Applied Probability](https://www.youtube.com/playlist?list=PL04QVxpjcnjg_94pKWf8WHFUCdjVAUHp3)| |
 
@@ -30,6 +31,7 @@
 
 | ML | Done |
 | -- | ---- |
+|[Understanding Machine Learning](https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO)| |
 |[The Analytics Edge](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq)| |
 |[Scalable Machine Learning](http://alex.smola.org/teaching/berkeley2012/index.html)| |
 |[Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337)| |
