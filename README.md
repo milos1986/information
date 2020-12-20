@@ -5,7 +5,7 @@
 |[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)| :o: |
 |[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)| |
 |[Logic and Computation](https://www.youtube.com/playlist?list=PLPW2keNyw-utXOOzLR-Wp1p0eE5LEtv3N)| |
-|[Convex Optimization](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)| |
+|[Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt-F16/)| |
 |[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)| |
 |[Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)| |
 |[Functional Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)| |
@@ -19,7 +19,7 @@
 |[Probability Course](https://www.probabilitycourse.com/)| |
 |[randomservices](https://www.randomservices.org/random/index.html)| |
 |[Couplings and Monte Carlo](https://sites.google.com/site/pierrejacob/cmclectures)| |
-|[Advances in Applied Probability](https://www.youtube.com/playlist?list=PL04QVxpjcnjg_94pKWf8WHFUCdjVAUHp3)| |
+|[Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)| |
 
 
 | Algorithms | Done |
@@ -50,7 +50,7 @@
 
 | Games Theory | Done |
 | ------------ | ---- |
-|[Game Theory, Polak](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)| :o: |
+|[Game Theory](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)| :o: |
 |[Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html)| |
 
 
