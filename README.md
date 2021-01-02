@@ -31,7 +31,6 @@
 
 | ML | Done |
 | -- | ---- |
-|[Understanding Machine Learning](https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO)| |
 |[The Analytics Edge](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq)| |
 |[Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337)| |
 |[Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)| |
@@ -42,9 +41,7 @@
 |[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)| |
 |[Statistical Rethinking](https://github.com/rmcelreath/statrethinking_winter2019)| |
 |[Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)| |
-|[ProbAI](https://www.youtube.com/playlist?list=PLRy-VW__9hV8s--JkHXZvnd26KgjRP2ik)| |
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)| |
-|[Algorithms and Uncertainty Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre13oPPxPVXRBWMyTS3ul1y2A)| |
 
 
 | Games Theory | Done |
@@ -65,7 +62,6 @@
 
 | Computers | Done |
 | --------- | ---- |
-|[Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)| |
 |[Modern C++](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)| |
 |[Learn Git Branching](https://learngitbranching.js.org/)| |
 |[RegexOne](https://regexone.com/)| |
