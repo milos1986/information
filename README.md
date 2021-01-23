@@ -11,6 +11,7 @@
 |[Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)| :o: |
 |[Functional Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)| |
 |[Fuzzy Logic](https://www.youtube.com/playlist?list=PLhdVEDm7SZ-Ph7E3bYW89UbjD6zkW-vbf)| |
+|[Optimal Transport](https://www.youtube.com/playlist?list=PLJ6garKOlK2qKVhRm6UwvcQ46wK-ciHbl)| |
 
 
 | Probability | Done |
@@ -19,6 +20,7 @@
 |[Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)| |
 |[Probability Course](https://www.probabilitycourse.com/)| |
 |[randomservices](https://www.randomservices.org/random/index.html)| |
+|[Introductory Lectures to Stochastic Programming](https://www.youtube.com/playlist?list=PLDHkmxy7k_rktM2qboxi6tZcW0xPuNMZu)| |
 |[Couplings and Monte Carlo](https://sites.google.com/site/pierrejacob/cmclectures)| |
 
 
@@ -32,6 +34,7 @@
 | ML | Done |
 | -- | ---- |
 |[The Analytics Edge](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq)| |
+|[Learning From Data](http://home.caltech.edu/telecourse.html)| |
 |[Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337)| |
 |[Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)| |
 |[Neural Networks class, Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)| |
@@ -39,7 +42,7 @@
 |[Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)| |
 |Statistical Machine Learning, CMU, [2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r), [2016](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE), [2017](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)| |
 |[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)| |
-|[Statistical Rethinking](https://github.com/rmcelreath/statrethinking_winter2019)| |
+|[Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2020)| |
 |[Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)| |
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)| |
 
