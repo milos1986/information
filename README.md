@@ -18,6 +18,9 @@
 | ----------- | ---- |
 |[Introduction to Probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm)| :o: |
 |[Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)| |
+|[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)| |
+|[Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2020)| |
+|[Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)| |
 |[randomservices](https://www.randomservices.org/random/index.html)| |
 |[Introductory Lectures to Stochastic Programming](https://www.youtube.com/playlist?list=PLDHkmxy7k_rktM2qboxi6tZcW0xPuNMZu)| |
 |[Couplings and Monte Carlo](https://sites.google.com/site/pierrejacob/cmclectures)| |
@@ -40,9 +43,6 @@
 |[Algorithms for Big Data](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html)| |
 |[Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)| |
 |Statistical Machine Learning, CMU, [2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r), [2016](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE), [2017](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)| |
-|[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)| |
-|[Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2020)| |
-|[Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)| |
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)| |
 
 
