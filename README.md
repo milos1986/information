@@ -7,6 +7,7 @@
 |[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)| |
 |[Logic and Computation](https://www.youtube.com/playlist?list=PLPW2keNyw-utXOOzLR-Wp1p0eE5LEtv3N)| |
 |[Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt-F16/)| |
+|[Combinatorial Optimization](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)| |
 |[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)| |
 |[Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)| :o: |
 |[Functional Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)| |
